@@ -1,0 +1,8 @@
+#creating virtualenv(sandboxing packages)
+virtualenv env #env is the environment name
+
+#starting virtualenvironment
+.\env\scripts\activate
+
+#stopping the environment
+deactivate
