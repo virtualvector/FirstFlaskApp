@@ -6,3 +6,9 @@ virtualenv env #env is the environment name
 
 #stopping the environment
 deactivate
+
+
+
+
+
+
